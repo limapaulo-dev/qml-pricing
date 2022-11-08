@@ -12,3 +12,8 @@ provides native JS support.
 
 HMTL/CSS would´ve beeing a more prefareble solution. 
 Still, I'm glad I stick to it and coded a usable software :)
+
+Credits:
+https://github.com/qtdevs/FramelessHelper - MIT License
+Totally unecessary but I wanted to keep the project color edentity 
+for topbar. 
