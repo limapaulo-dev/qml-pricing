@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>Icons/kudoscode.ico</file>
+        <file>Icons/kudoscode.svg</file>
+        <file>Icons/minus.svg</file>
+        <file>Icons/square.double.svg</file>
+        <file>Icons/square.svg</file>
+        <file>Icons/times.svg</file>
+        <file>js/functions.js</file>
+        <file>js/prices.js</file>
+        <file>qml/WhatsPage.qml</file>
+        <file>qml/WhatsPage_copy.qml</file>
+        <file>qml/components/Bclose.qml</file>
+        <file>qml/components/Bmax.qml</file>
+        <file>qml/components/Bmin.qml</file>
+        <file>qml/components/EasyRec1.qml</file>
+        <file>qml/components/EasyText.qml</file>
+        <file>qml/components/EasyTextEd.qml</file>
+        <file>qml/components/TextEdit1.qml</file>
+        <file>qml/components/EasyTextIn.qml</file>
+        <file>qml/components/EasyTextF.qml</file>
+        <file>qml/components/ExportOptions.qml</file>
+        <file>Icons/Whatsapp-Classico.svg</file>
+        <file>Icons/Mail-Azul.svg</file>
+        <file>qml/main_copy.qml</file>
+    </qresource>
+</RCC>
