@@ -1,29 +1,46 @@
-//.pragma library
+.pragma library
 .import "prices.js" as Prices
 
-function hi() {
-
-    var date = new Date()
-    var hour = (date.toLocaleTimeString(Qt.locale("pt_BR"), "hh"))
-
-    var nome = "John"
-
-    if (hour < 12){
-        console.log("Bom dia " + nome + "!")
-    } if (hour < 18){
-        console.log("Boa tarde " + nome + "!")
-    } else{
-        console.log("Boa noite " + nome + "!")
-    }
-
+function fCrescemte(a,b) {
+    return a - b;
 }
 
-function log() {
-    console.log(Prices.fisica[0][2])
-
+function fDecrescente(a,b) {
+    return a - b;
 }
 
-function func() {
-    console.log("hello world")
+function fArrayCrescemte(a,b) {
+    return a[0]-b[0]
+}
 
+function fArrayDecrescente(a,b) {
+    return b[0]-a[0]
+}
+
+function twoDecimals(number) {
+    return (number < 10 ? '0' : '') + number
+}
+
+
+function logArrayElements(element, index, array) {
+    console.log("a[" + index + "] = " + element)
+}
+
+function logSimpleArrayElements(element) {
+    console.log(element)
+}
+
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+}
+
+function capitalizeWords(str) {
+   var splitStr = str.toLowerCase().split(' ');
+   for (var i = 0; i < splitStr.length; i++) {
+       // You do not need to check if i is larger than splitStr length, as your for does that for you
+       // Assign it back to the array
+       splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+   }
+   // Directly return the joined string
+   return splitStr.join(' ');
 }
