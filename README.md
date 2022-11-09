@@ -1,6 +1,8 @@
 # qml-pricing
 QT QML pricing application
 
+https://user-images.githubusercontent.com/115098626/200719142-b16f4472-bf05-4b0a-8fcc-fda73247bbe8.mp4
+
 This project was my first attempt of coding a usable UI.
 Before this all my projects were IDE and console based.
 
