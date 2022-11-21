@@ -16,6 +16,6 @@ HTML/CSS would've being a more preferable solution.
 Still, I'm glad for sticking to it and coding a usable software :)
 
 Credits:
-https://github.com/qtdevs/FramelessHelper - MIT License
+https://github.com/qtdevs/FramelessHelper - MIT License <br>
 Totally unecessary but I wanted to keep the project color edentity 
 for topbar. 
