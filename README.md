@@ -12,8 +12,8 @@ to grasp UI/UX basice concepts.
 It was also my first time using JavaScript since QML
 provides native JS support. 
 
-HMTL/CSS would´ve beeing a more prefareble solution. 
-Still, I'm glad I stick to it and coded a usable software :)
+HTML/CSS would've being a more preferable solution.
+Still, I'm glad for sticking to it and coding a usable software :)
 
 Credits:
 https://github.com/qtdevs/FramelessHelper - MIT License
